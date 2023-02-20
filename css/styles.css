@@ -150,7 +150,10 @@ ul {
 	color: #434455;
 }
 
-
+.about-us-item {
+	display: flex;
+	flex-direction: row;
+}
 
 /*
 .btn{
